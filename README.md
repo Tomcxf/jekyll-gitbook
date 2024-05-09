@@ -13,3 +13,11 @@ The analysis includes :
 - dRNAtail: a module for RNA poly(A) length estimate.
 - dRNAmodif: a module for RNA modification detection.
 - dRNAas: a module for alternative splicing analysis.
+
+```markdown
+> ##### TIP
+>
+> If pipeline broken by some error, just type command again after you fix it.
+> snakemake will automatically continue from the broken point
+> 
+```
